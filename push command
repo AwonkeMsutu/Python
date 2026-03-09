@@ -1,1 +1,7 @@
-https://github.com/AwonkeMsutu/Python.git
+
+git init
+git add .
+git commit -m "First commit"
+git branch -M main
+git remote add origin https://github.com/AwonkeMsutu/Python.git
+git push origin main

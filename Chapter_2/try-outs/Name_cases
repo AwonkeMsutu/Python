@@ -1,0 +1,10 @@
+name = "ada lovelace"
+
+# Print the name in lowercase
+print(name.lower())
+
+# Print the name in uppercase
+print(name.upper())
+
+# Print the name in title case
+print(name.title())

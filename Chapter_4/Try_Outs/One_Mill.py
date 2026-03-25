@@ -1,0 +1,5 @@
+Million = list(range(1, 100001))
+print(f"Minimum {min(Million)}")
+print(f"Minimum {max(Million)}")
+total = sum(Million)
+print(f"The sum of a million numbers is: {total_sum}")

@@ -1,0 +1,8 @@
+Animals = ["Bears", "Elephants", "Cats", "Pitbulls"]
+for animal in Animals:
+    print(animal)
+
+for animal in Animals:
+    print(f"{animal.title()} are very dangerous animals whenever their backs are against the wall")
+
+print("Any of these beasts could be problem if troubled!")
